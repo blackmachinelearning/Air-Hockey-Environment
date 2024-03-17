@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - target
+  - ground
+  - agentBody
+  - gate_1
+  - gate_2
+  - player_1
+  - player_2
+  - playerBlue
+  - playerRed
+  - gateBlue
+  - gateRed
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Players
+  - Water
+  - UI
+  - Goal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
