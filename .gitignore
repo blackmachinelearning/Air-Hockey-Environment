@@ -1,1 +1,11 @@
 .idea
+Assets/Logs
+Assets/PackageCache
+Assets/ShaderCache
+Library/ShaderCache
+Library/PackageCache
+Temp/
+Logs
+Library/Artifacts
+Library/EditorInstance.json
+Library/ProtocolInstance.json
